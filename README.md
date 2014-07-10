@@ -9,14 +9,11 @@ do not include an option for "no formatting"
 
 But if you insist...
 
-    {exp:no_formatting}
+	{exp:no_formatting}
+		text you want to do absolutely nothing to
+	{/exp:no_formatting}
 
-        text you want to do absolutely nothing to
-
-    {/exp:no_formatting}
-    
-    
 ## Change Log
 
-- Version 1.1
-    - Updated plugin to be 2.0 compatible 
+- 1.1
+	- Updated plugin to be 2.0 compatible
